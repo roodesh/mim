@@ -30,6 +30,10 @@
       "additionalSetColors": []
     },
     "path": "@PROJECT_PATH@",
+    "favicon": "",
+    "noImageResize": "",
+    "google-analytics": "",
+    "cookiesAlert": "",
     "versionFirst": "4.5.4",
     "uniqCompNum": 21,
     "versionPublish": "4.5.4"
