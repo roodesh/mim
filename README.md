@@ -1,0 +1,2 @@
+# mim
+GitHub Pages
